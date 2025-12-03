@@ -5,7 +5,7 @@ from cryptography.hazmat.primitives.asymmetric import padding
 
 
 
-COMMIT_HASH = "7cd2dbcee66bde4bf5adc7c9b8db7ee0e9062f1d"  
+COMMIT_HASH = "f6cd3f783770fecd6a2e24d5799ca6f87f14ebd4"  
 
 
 def load_private_key(path: str = "student_private.pem"):
